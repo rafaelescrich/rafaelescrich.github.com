@@ -1,5 +1,5 @@
-<rafaelescrich.github.com>>
-===========================
+[rafaelescrich.github.com]
+==========================
 
 # Jekyll-Bootstrap
 
