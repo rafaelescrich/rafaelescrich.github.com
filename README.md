@@ -1,4 +1,4 @@
-[rafaelescrich.github.com](http://rafaelescrich.github.com)
+[rafaelescrich.github.io](http://rafaelescrich.github.io)
 ==========================
 
 # Jekyll-Bootstrap
